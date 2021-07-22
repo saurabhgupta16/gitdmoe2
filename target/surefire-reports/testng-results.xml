@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-07-13T16:34:34Z" name="Suite" finished-at="2021-07-13T16:34:34Z" duration-ms="46">
+    <groups>
+    </groups>
+    <test started-at="2021-07-13T16:34:34Z" name="Test" finished-at="2021-07-13T16:34:34Z" duration-ms="46">
+      <class name="Maven.Maven_practice.SeleniumTest">
+        <test-method signature="BrowserTest()[pri:0, instance:Maven.Maven_practice.SeleniumTest@7e7be63f]" started-at="2021-07-13T16:34:34Z" name="BrowserTest" finished-at="2021-07-13T16:34:34Z" duration-ms="9" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BrowserTest -->
+        <test-method signature="UrlTest()[pri:0, instance:Maven.Maven_practice.SeleniumTest@7e7be63f]" started-at="2021-07-13T16:34:34Z" name="UrlTest" finished-at="2021-07-13T16:34:34Z" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- UrlTest -->
+      </class> <!-- Maven.Maven_practice.SeleniumTest -->
+      <class name="Maven.Maven_practice.RestApiTest">
+        <test-method signature="BrowserTest()[pri:0, instance:Maven.Maven_practice.RestApiTest@6cd28fa7]" started-at="2021-07-13T16:34:34Z" name="BrowserTest" finished-at="2021-07-13T16:34:34Z" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BrowserTest -->
+        <test-method signature="UrlTest()[pri:0, instance:Maven.Maven_practice.RestApiTest@6cd28fa7]" started-at="2021-07-13T16:34:34Z" name="UrlTest" finished-at="2021-07-13T16:34:34Z" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- UrlTest -->
+      </class> <!-- Maven.Maven_practice.RestApiTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
